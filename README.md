@@ -15,7 +15,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=milorxn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=milorxn&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milorxn&layout=donut)](https://github.com/milorxn/github-readme-stats) -->
