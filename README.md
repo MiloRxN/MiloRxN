@@ -1,4 +1,4 @@
-# 👋 Hi, Im Milo
+# 👋 Hi, Im Tobias Nielsen
 👨‍💻 Upcoming Frontend Developer, Sharing hes Journey and projects!<br>
 👩🏻‍🎓 Studying Web Devolopment at [Roskilde Technical College](https://www.rts.dk/eud-erhvervsuddannelser/erhvervsuddannelser-eud/146-webudvikler) in Denmark!<br>
 💭 Currently learning Dynamic Web!<br>
