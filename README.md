@@ -1,7 +1,7 @@
 # 💫 About Me
-I am currently studying web development at Roskilde Technical School in Denmark.  
+I graduated as a web developer from Roskilde Technical College in Denmark in 2025.
 I am passionate about learning new technologies and improving my skills, so feel free to get in touch!  
-
+Looking for Job opportunity!
 - 📧 Email: tobias@richter-nielsen.dk  
 - 📞 Phone: +45 42 72 11 54
 
