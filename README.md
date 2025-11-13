@@ -1,5 +1,5 @@
 # 💫 About Me
-I graduated as a web developer from Roskilde Technical College in Denmark in 2025.
+I graduated as a web developer from Roskilde Technical College in Denmark in 2025.  
 I am passionate about learning new technologies and improving my skills, so feel free to get in touch!  
 Looking for Job opportunity!
 - 📧 Email: tobias@richter-nielsen.dk  
